@@ -118,7 +118,7 @@ h1 {
 .hero-f1 { background: var(--f1-bg); border-color: var(--f1-bd); }
 .hero-f2 { background: var(--f2-bg); border-color: var(--f2-bd); }
 .hero-f3 { background: var(--f3-bg); border-color: var(--f3-bd); }
-.hero-on { background: var(--on-bg); border-color: var(--on-bd); }
+.hero-on { background: var(--f3-bg); border-color: var(--f3-bd); }
 
 .hero-label {
   font-size: 0.5625rem;
@@ -131,7 +131,7 @@ h1 {
 .hero-f1 .hero-label { color: var(--f1); }
 .hero-f2 .hero-label { color: var(--f2); }
 .hero-f3 .hero-label { color: var(--f3); }
-.hero-on .hero-label { color: var(--on); }
+.hero-on .hero-label { color: var(--f3); }
 
 .hero-feeder {
   font-size: 1.125rem;
